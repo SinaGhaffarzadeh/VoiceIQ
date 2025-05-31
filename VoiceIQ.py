@@ -14,6 +14,8 @@ Denoising Mic voice - Starting recording process - Sending recorded file to Goog
 Getting text format of voice - injecting extracted text to LLM - Showing consequences)
 Some errors you may face in this project are inaccessibility to the internet and the microphone. To deal with them, we use the "try-except" method.
 
+Notice: To execute this code, I used an 840M GeForce graphics card
+
 Versions and libraries;
 
 speechrecognition==3.10.0
